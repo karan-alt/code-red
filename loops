@@ -1,0 +1,10 @@
+def gokul():
+   a=input("enter the value")
+   while a!='q':
+       gokul()
+       break
+gokul()
+
+
+
+
